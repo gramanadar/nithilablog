@@ -9,7 +9,7 @@ def main():
     # Introduce myself to visitors
     intro_message = """🌟 **Exploring the World of Coding with Scratch!** 🚀
 
-Hey there, fellow adventurers! 🌈 My name is Nithila, and I'm buzzing with excitement to share my coding journey with you! 🤗 As a fifth-grader at Parkmont Elementary, I've spent the last five years soaking up knowledge, making friends, and diving into the magical world of coding. 💻✨
+Hey there, fellow adventurers! 🌈 My name is **Nithila**, and I'm buzzing with excitement to share my coding journey with you! 🤗 As a fifth-grader at Parkmont Elementary, I've spent the last five years soaking up knowledge, making friends, and diving into the magical world of coding. 💻✨
 
 Let me take you on a little journey through my world at Parkmont! 🎒📚 Ever since I stepped into this wonderful school, I've been greeted by smiling faces and endless opportunities to learn and grow. 🏫 From solving math puzzles to exploring the mysteries of science, every day is an adventure! 🧩🔬
 
