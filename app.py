@@ -32,7 +32,7 @@ Until next time, happy coding, fellow adventurers! 🚀🎨 Let's keep the creat
     st.write(intro_message)
 
     # Purpose of this blog
-    st.write("The purpose of this blog is to share my thoughts, experiences, and insights on various topics that interest me. "
+    st.write("The purpose of this blog is to share my thoughts, experiences, and insights on various topics that interest me and maybe you. "
              "From technology and science to personal development and travel adventures, "
              "I aim to provide valuable content and engage with my readers.")
 
