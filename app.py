@@ -15,7 +15,7 @@ Let me take you on a little journey through my world at Parkmont! 🎒📚 Ever 
 
 But you know what really lights up my world? 🌟 It's coding! And my favorite playground for coding adventures is none other than Scratch! 🐱🎨
 
-Scratch is like a colorful canvas where I can unleash my creativity and bring my wildest ideas to life through block coding. 🎨💡 Whether I'm crafting a quirky animation, designing a challenging game, or even telling a story through interactive characters, Scratch is my go-to destination! 🎮📝
+Scratch is like a colorful canvas where I can unleash my creativity and bring my wildest ideas to life through block coding. 🎨💡 Whether I'm crafting a funny animations, designing a challenging game, or even telling a story through interactive characters, Scratch is my go-to destination! 🎮📝
 
 What's so cool about Scratch, you ask? Well, let me tell you! 🌟 First off, it's super easy to use, even for a coding newbie like me! 🙋‍♀️ With its drag-and-drop interface and colorful blocks, I can piece together code like a puzzle, without getting tangled in complicated syntax. 🧩🎲
 
